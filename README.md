@@ -1,6 +1,11 @@
-### Hi there 👋
+### I'm Andi, the Director of Engineering for the [LifeWorks](https://app.lifeworks.com) team. 👋
 
-I'm Andi, the Director of Engineering for the [LifeWorks](https://app.lifeworks.com) team.
+LifeWorks is a total wellbeing platform. The front end consists of an iOS, Android and React.js web application, and the backend comprises of Node.js, Python and PHP microservices producing REST and GraphQL endpoints - all hosted on AWS.
+
+💬 [Want to know more? Let's talk!](https://www.twitter.com/andismith)
+
+🏁 In my spare time, I’m currently working on a F1 statistics site using React.js, Gatsby and Node.js. URL coming soon!
+
 
 <!--
 **andismith/andismith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
