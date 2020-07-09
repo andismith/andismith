@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Andi, the Director of Engineering for the [LifeWorks](https://app.lifeworks.com) team.
+
 <!--
 **andismith/andismith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
