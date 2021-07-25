@@ -4,6 +4,9 @@ LifeWorks is a total wellbeing platform by Morneau Shepell. The front end consis
 
 💬 [Want to know more? Let's talk!](https://www.twitter.com/andismith)
 
+---
+
+![trophy](https://github-profile-trophy.vercel.app/?username=andismith&theme=nord&no-bg=true&title=Stars,Followers,Commit,AncientUser&margin-w=5)
 
 <!--
 **andismith/andismith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
