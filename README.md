@@ -1,8 +1,6 @@
-### I'm Andi, the Director of Engineering for the [LifeWorks](https://app.lifeworks.com) team. 👋
+### I'm Andi. 👋
 
-LifeWorks is a total wellbeing platform by Morneau Shepell. The front end consists of an iOS, Android and React.js web application, and the backend comprises of Node.js, Python and PHP microservices producing REST and GraphQL endpoints - all hosted on AWS.
-
-💬 [Want to know more? Let's talk!](https://www.twitter.com/andismith)
+💬 [Want to work together? Let's talk!](https://www.twitter.com/andismith)
 
 ---
 
